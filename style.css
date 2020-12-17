@@ -204,37 +204,12 @@ h1{
   font-size: 50px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 600;
-  margin-top: 5px;
+  margin-top: 80px;
 }
 
 .subtitle {
   color: rgb(255, 255, 255, 0.829);
-  font-size: 30px;
+  font-size: 50px;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-weight: 600;
-}
-
-.buttons_container {
-  display: flex;
-  max-width: 40%;
-}
-
-.buttons_container button{
-  font-size: 25px;
-  color: #0f0f0f;
-  background-color: rgba(0, 0, 0, 0);
-  border: #000000 solid 3px;
-  border-radius: 5px;
-  font-family: "Roboto", sans-serif;
-  padding: 10px 20px;
-  width: 300px;
-  height: 90px;
-  transition: .2s;
-}
-
-.buttons_container button:hover {
-  border-color: rgba(255, 255, 255, 0.877);
-  border-width: 4px;
-  font-size: 25px;
-  color: rgba(255, 255, 255, 0.877)
+  font-weight: 6000;
 }
