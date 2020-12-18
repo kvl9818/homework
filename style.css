@@ -213,3 +213,43 @@ h1{
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: 6000;
 }
+
+#mass {
+  background-color: rgb(0, 0, 0);
+  background-image: url(images/info.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+#lesse {
+  background-color: rgb(0, 0, 0);
+  background-image: url(images/showroom.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+#more {
+  background-color: rgb(0, 0, 0);
+  background-image: url(images/service.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+#second {
+  background-color: rgb(0, 0, 0);
+  background-image: url(images/collection.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+#lock {
+  background-color: rgb(0, 0, 0);
+  background-image: url(images/parts.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
